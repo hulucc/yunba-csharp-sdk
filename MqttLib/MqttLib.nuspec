@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Yunba.Push</id>
+    <version>1.0.1</version>
+    <title>yunba-csharp-sdk</title>
+    <authors>yunba</authors>
+    <owners>yunba</owners>
+    <licenseUrl>https://github.com/yunba/yunba-csharp-sdk</licenseUrl>
+    <projectUrl>https://github.com/yunba/yunba-csharp-sdk</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>yunba c# sdk</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>yunba mqtt</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="6.0.4"/>
+    </dependencies>
+  </metadata>
+</package>
